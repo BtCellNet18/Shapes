@@ -1,6 +1,6 @@
 # This workflow will build a .NET project
 
-name: .NET
+name: Build
 
 on:
   push:

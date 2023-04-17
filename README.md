@@ -1,5 +1,7 @@
 # Shapes - Tech Challange
 
+![Build](https://github.com/BtCellNet18/Shapes/actions/workflows/dotnet.yml/badge.svg)
+
 **Requirements**
 1. Define a Shape object with Name, Perimeter, and Area
 2. Define a Circle with Shape characteristics
